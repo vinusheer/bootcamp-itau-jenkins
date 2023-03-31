@@ -9,7 +9,7 @@ pipeline {
                 sh "ls -la"
             }
         }
-        stage('GET na API do catfact') {
+        stage('Upload do arquivo index.html') {
             when {
                 branch "main"
             }

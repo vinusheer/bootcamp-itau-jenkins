@@ -15,4 +15,4 @@ Cabeçalhos obrigatórios:
 # exemplo
 $ curl -H 'authToken: BNUhVeITc3kgQM4g07rat62XKmiMYf' -H 'myPath: <seu-path>' -T index.html https://ktxdfuuszshdwe2fpi6niua45e0pduww.lambda-url.us-east-1.on.aws/
  ```
-Se tudo for feito corretamente, ao acessar a URL `https://ktxdfuuszshdwe2fpi6niua45e0pduww.lambda-url.us-east-1.on.aws/<seu-path>` no seu browser, você verá uma página web indicando o sucesso do seu deploy.
+Se tudo for feito corretamente, ao acessar a URL `http://bootcamp-itau.s3-website-us-east-1.amazonaws.com/<seu-path>/index.html` no seu browser, você verá uma página web indicando o sucesso do seu deploy.
